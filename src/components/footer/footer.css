@@ -1,0 +1,15 @@
+.footer {
+  padding-top: 20px;
+}
+.row2 {
+  text-align: center;
+}
+.footer2 {
+  height: 100px;
+  text-align: center;
+}
+
+.footer-mid-column {
+  display: flex;
+  justify-content: space-around;
+}
